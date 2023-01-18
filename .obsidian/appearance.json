@@ -1,0 +1,17 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "css",
+    "New Text Document",
+    "Custom",
+    "Horizontal tabs",
+    "supercharged-links-gen",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ],
+  "baseFontSize": 16,
+  "translucency": false,
+  "accentColor": "#008080"
+}
