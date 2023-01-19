@@ -11,8 +11,13 @@
             "id": "22ee7d8e28100501",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "⚖️ Law & Equation & Energy/🐮 Game Bò/Chức năng.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "⚖️ Law & Equation & Energy/🐮 Game Bò/Chức năng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "⚖️ Law & Equation & Energy/🐮 Game Bò/Chức năng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,15 +212,15 @@
   },
   "active": "4479645a6e9df29a",
   "lastOpenFiles": [
+    "⚖️ Law & Equation & Energy/🐮 Game Bò/Điểm cho cảm xúc/Social/Gặp VIP.md",
+    "⚖️ Law & Equation & Energy/🐮 Game Bò/Chức năng.md",
+    "⚖️ Law & Equation & Energy/🐮 Game Bò/Điểm cho cảm xúc/Social/Social.md",
+    "⚖️ Law & Equation & Energy/🐮 Game Bò/Điểm cho cảm xúc/Bảng điểm.md",
     "Game Bò/Game thủ/Anh.md",
     "Blog/Sự khác nhao giữa ghét và khinh bỉ.md",
     "Game Bò/Điểm cho cảm xúc/Bảng điểm.md",
     "Cal/17012023.md",
     "Trang chủ.md",
-    "Chức năng.md",
-    "Game Bò/Đơn vị tiền/Đơn vị tiền.md",
-    "Untitled.canvas",
-    "Game Bò/Game Bò.md",
-    "Template/Template.md"
+    "Chức năng.md"
   ]
 }
