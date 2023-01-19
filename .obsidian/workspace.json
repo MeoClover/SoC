@@ -11,16 +11,33 @@
             "id": "22ee7d8e28100501",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bd9f76acf5f57bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d31c4a1ecc10016",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "⚖️ Law & Equation & Energy/🐮 Game Bò/Chức năng.md",
+                "file": "Từ điển.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚖️ Law & Equation & Energy/🐮 Game Bò/Chức năng.md",
+                "file": "Từ điển.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚖️ Law & Equation & Energy/🐮 Game Bò/Chức năng.md",
+                "file": "Từ điển.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,17 +227,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4479645a6e9df29a",
+  "active": "3d31c4a1ecc10016",
   "lastOpenFiles": [
-    "⚖️ Law & Equation & Energy/🐮 Game Bò/Điểm cho cảm xúc/Social/Gặp VIP.md",
+    "🌐 Space & Ordinary Matter/🧬 Particles/🧬 Particles.md",
+    "🌐 Space & Ordinary Matter/🧬 Particles/Mô tả folder.md",
+    "Từ điển.md",
+    "🕳️ Dark Energy & Dark Matter/Dark Matter/🕷️ Death Anxiety/test.md",
     "⚖️ Law & Equation & Energy/🐮 Game Bò/Chức năng.md",
+    "⚖️ Law & Equation & Energy/🐮 Game Bò/Điểm cho cảm xúc/Social/Gặp VIP.md",
     "⚖️ Law & Equation & Energy/🐮 Game Bò/Điểm cho cảm xúc/Social/Social.md",
     "⚖️ Law & Equation & Energy/🐮 Game Bò/Điểm cho cảm xúc/Bảng điểm.md",
     "Game Bò/Game thủ/Anh.md",
-    "Blog/Sự khác nhao giữa ghét và khinh bỉ.md",
-    "Game Bò/Điểm cho cảm xúc/Bảng điểm.md",
-    "Cal/17012023.md",
-    "Trang chủ.md",
-    "Chức năng.md"
+    "Blog/Sự khác nhao giữa ghét và khinh bỉ.md"
   ]
 }
