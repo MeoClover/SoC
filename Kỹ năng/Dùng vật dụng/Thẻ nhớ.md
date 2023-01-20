@@ -1,0 +1,3 @@
+- [ ] Bấm thẻ nhớ mà không cần lắc tay
+- [ ] Lắp sim và thẻ nhớ vào khay 
+- [ ] Lắp khay vào máy
