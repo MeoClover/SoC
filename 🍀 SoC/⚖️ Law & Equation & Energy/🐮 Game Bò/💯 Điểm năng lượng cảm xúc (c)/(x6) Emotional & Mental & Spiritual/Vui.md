@@ -1,0 +1,1 @@
+Điểm năng lượng cảm xúc:: +1
