@@ -20,7 +20,5 @@ Xem bảng chuyển đổi
 
 Cần 1 nơi để ghi rõ ra
 
-**4) Bảng xếp hạng gamers***
 
-Dựa vào 1) Tổng điểm gamers cho bò ăn => xếp hạng điểm giữa các gamers
 
