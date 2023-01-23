@@ -3,9 +3,15 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
-    "iconColor": null,
-    "recentlyUsedIcons": [],
+    "emojiStyle": "native",
+    "iconColor": "#00ff4c",
+    "recentlyUsedIcons": [
+      "FabConfluence",
+      "FabAtlassian",
+      "FabAmilia",
+      "⚜",
+      "SiRescuetime"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,5 +20,8 @@
       "bottom": 0,
       "left": 0
     }
-  }
+  },
+  "🌐 Space & Ordinary Matter": "FabAmilia",
+  "⚖️ Law & Equation & Energy": "FabAtlassian",
+  "🕳️ Dark Energy & Dark Matter": "FabConfluence"
 }
