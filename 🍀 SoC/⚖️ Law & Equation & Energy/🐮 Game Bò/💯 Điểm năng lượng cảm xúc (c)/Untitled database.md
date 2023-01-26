@@ -9,10 +9,10 @@ name: new database
 description: new description
 columns:
   column1:
-    input: select
+    input: text
     key: column1
     accessorKey: column1
-    label: Tên thật
+    label: Column 1
     position: 2
     skipPersist: false
     isHidden: false
@@ -51,7 +51,7 @@ columns:
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: true
+  sticky_first_column: false
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
