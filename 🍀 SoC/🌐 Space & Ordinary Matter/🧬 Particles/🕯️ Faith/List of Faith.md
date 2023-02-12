@@ -10,3 +10,9 @@
 | Guro sẽ làm Meo Clover cười quài quài quài | Guro sẽ không bao giờ thay đổi or thoát khỏi mqh vz Ngọc dc                         |
 |                                            | Meo Clover không cùng tầng mây với Guro                                             |
 | Guro có ghèn                               | Guro sẽ cư xử không bình thường vào CN                                              |
+
+
+# Dương
+
+Sdsfdsd
+
