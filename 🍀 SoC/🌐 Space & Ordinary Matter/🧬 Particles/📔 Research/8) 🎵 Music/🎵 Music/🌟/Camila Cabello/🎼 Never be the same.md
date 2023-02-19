@@ -30,6 +30,8 @@
 
 #love
 #sucker
+#happy
+#Valentine
 
 # 6. MV
 
@@ -133,3 +135,7 @@ Just one hit of you, I knew I'll never, ever, ever be the same
 # 8. Notes
 
 #N4
+
+1: 0,5
+2: 1
+3: 1,5

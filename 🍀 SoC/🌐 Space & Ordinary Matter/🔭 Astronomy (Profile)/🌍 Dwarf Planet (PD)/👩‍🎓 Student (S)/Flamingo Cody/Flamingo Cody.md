@@ -3,8 +3,8 @@
 # 1) Name
 R name:: Lê Xuân Ngữ
 R nickname:: Cody
-CI nickname:: Coy
-CI Code:: PD(S)F1-C
+CI name:: Coy
+CI Code:: PD-S.F1(C)
 
 # 2) Gender
 
@@ -25,14 +25,18 @@ Gender:: ♂️ Male
 
 Type:: Dwarf Planet S
 
-# 5) Personality:
+# 5) Characteristics:
 
-• Tr
+• Xấu hổ
+• Quậy phá
+• Hay cười
+• Chống đối
+• Nổi loạn
 
 # 6) Blood and House:
 
-• Blood type (aka House): SW
-• Blood color: cyan blue
+• Blood type (aka House):: SW
+• Blood color:: #cyanblue
 
 # 7) Abilities:
 
@@ -40,14 +44,14 @@ Type:: Dwarf Planet S
 
 # 9) Relationships:
 
-• Family: Noone
-• Love: Noone
-• Friend: 
+• Family:: Noone
+• Love:: Noone
+• Friend::
 
 # 10) Job:
 
-• Student
-• Average Income Per Month: 
+• Job:: Student
+• Average Income Per Month::
 
 # 11) Favorite Places:
 

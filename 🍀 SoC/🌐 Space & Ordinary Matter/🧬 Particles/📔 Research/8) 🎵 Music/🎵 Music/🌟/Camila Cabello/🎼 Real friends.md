@@ -117,3 +117,7 @@ Gotta get up out of this town, yeah
 # 8. Notes
 
 #N5
+
+1: 1
+2: 1 + 0,5
+3: 1
