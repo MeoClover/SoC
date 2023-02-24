@@ -2,7 +2,7 @@
 
 Before stepping into my universe (opening SoC folder), please look through this note. 
 
-First of all, I truly don't feel a bit grateful to the ones who come here today. So, {hasta la vista}! :))) 👋
+First of all, I truly don't feel a bit grateful to the ones who come here today. So, [[hasta la vista]] ! :))) 👋
 
 ...
 
