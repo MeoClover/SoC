@@ -1,7 +1,3 @@
-# shoping
-mua sắm::{bánh: 100, kẹo: 200}
-
-
 Gặp:: [[🍀 SoC/⚖️ Law & Equation & Energy/🐮 Game Bò/👥 List of Gamers/VIP/Guro]]
 Gặp:: [[NĐ]]
 
