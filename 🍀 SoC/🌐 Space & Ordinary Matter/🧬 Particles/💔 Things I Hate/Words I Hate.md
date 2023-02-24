@@ -1,2 +1,3 @@
 1. Self-introducing
-2. Fjk
+2. Nhé
+3. Mẹ
