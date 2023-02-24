@@ -14,7 +14,7 @@
 
 # Dương
 
-- Guro sẽ mua áo zú cho Meo Clover/
+- Guro sẽ mua áo zú cho Meo Clover
 
 # Âm
 
